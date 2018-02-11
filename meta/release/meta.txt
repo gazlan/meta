@@ -1,0 +1,8 @@
+-*-   Meta 1.0   *   Copyright (c) Gazlan, 2015   -*-
+
+Append <meta> & <link> HTML tags after <title> tag
+
+Usage: meta.com wildcards [ > LOG.TXT ]
+
+complains_n_suggestions direct to gazlan@yandex.ru
+
